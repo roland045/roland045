@@ -4,7 +4,8 @@
 
 I'm Roland, Data scientist from 🇭🇺 Hungary.
 
-
+[comment]: <> (Data Scientist.) 
+I extract insights from data to help people and companies to make better and data driven decisions.
 
 
 ## 💾 Main projects
