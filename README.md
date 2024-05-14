@@ -1,3 +1,5 @@
+[comment]: build with: https://readme.so/editor markdown editor
+
 
 ### Hi there 👋
 
@@ -11,8 +13,8 @@ I'm Roland, Data scientist from 🇭🇺 Hungary.
 
 |  Project | Short description |
 |----------|--------------------|
-| Road quality measurement| Development of a system based on vibration data which is able to categorise the road surface based on its quality by machine learning solutions. |
-| Hive scale              |     Development of <br> a hive scale and associated data warehouse and application to support data-driven decision making. |
+| [Road quality measurement](https://github.com/rolandnagy-ds/Road-quality-analysis-Unsupervised-learning)| Development of a system based on vibration data <br> which is able to categorise the road surface based on <br> its quality by machine learning solutions. |
+| [Hive scale](https://github.com/rolandnagy-ds/hive-scale)              |     Development of a hive scale and associated data warehouse <br> and application to support data-driven decision making. |
 
 
 ## 🛠️ Things I use
@@ -58,6 +60,8 @@ I'm Roland, Data scientist from 🇭🇺 Hungary.
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/data-roland/)
 
 [comment]: [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
+
 
 
 
