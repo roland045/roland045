@@ -46,7 +46,7 @@ I extract insights from data to help people and companies to make better and dat
 |----------:|--------------------:|
 |  English  | B2 (TELC certified) |
 | Hungarian |     Native language |
-|  Italian  |       Just hobby    |
+|  Italian  |       As a hobby    |
 
 
 ## 📝 What I'm currently learning
