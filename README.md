@@ -24,6 +24,7 @@ I extract insights from data to help people to make better and data driven decis
 
 - **(Still in progress)** [Road quality measurement](https://github.com/rolandnagy-ds/Road-quality-analysis-Unsupervised-learning) - Development a road quality measurement and classification system help with road reconstruction.
 - [Hive scale](https://github.com/rolandnagy-ds/hive-scale) - Development of a hive scale and associated data warehouse with dashboard application to support data-driven decision making in beekeeping.
+  
 [comment]: <> ([Analysis of Flyball dog sport data] - Analysing the annual results of a flyball-type dog sports team and making recommendations to improve performance.)
 
 &nbsp;
