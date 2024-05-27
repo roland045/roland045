@@ -18,7 +18,6 @@ I extract insights from data to help people to make better and data driven decis
 
 [comment]: <> (- View my portfolio projects on my website.)
 - View my coding projects [on Github](https://github.com/rolandnagy-ds?tab=repositories).
-- View my data blog [on Medium](https://medium.com/@rolandnagydata).
 
 ### 📌 Favorite Projects
 
