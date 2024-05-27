@@ -32,8 +32,10 @@ I extract insights from data to help people to make better and data driven decis
 ## 🛠️ Things I use
 
 - Programming Languages: SQL (PostgreSQL, SQLite) | Python (Analytics and Machine Learning libraries) | Matlab
-- Tools: Google Looker Studio | Google BigQuery | Excel | Tableau | WordPress
+- Tools: Google BigQuery | Excel | Tableau | WordPress
 - Misc: Git | Github
+
+[comment]: <> (Google Looker Studio | Power BI)
 
 &nbsp;
 
