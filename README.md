@@ -48,11 +48,14 @@ I extract insights from data to help people to make better and data driven decis
 &nbsp;
 
 ## 🔗 Connect with me
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://medium.com/@rolandnagydata)
+
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/data-roland/)
+[![medium](https://miro.medium.com/v2/resize:fit:112/1*Ra88BZ-CSTovFS2ZSURBgg.png)](https://medium.com/@rolandnagydata)
+
 
 [comment]: [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[comment]: [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://medium.com/@rolandnagydata)
 
 &nbsp;
 
