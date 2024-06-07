@@ -21,7 +21,8 @@ I extract insights from data to help people to make better and data driven decis
 
 ### 📌 Favorite Projects
 
-- **(Still in progress)** [Road quality measurement](https://github.com/rolandnagy-ds/Road-quality-analysis-Unsupervised-learning) - Development a road quality measurement and classification system help with road reconstruction.
+- [Analysis on Flyball dog competition's data](https://github.com/rolandnagy-ds/flyball_race_analysis) - Exploratory data analysis (EDA) and team composition optimization with ML to improve the results of a competition team.
+- *(Still in progress)* [Road quality measurement](https://github.com/rolandnagy-ds/Road-quality-analysis-Unsupervised-learning) - Development a road quality measurement and classification system help with road reconstruction.
 - [Hive scale](https://github.com/rolandnagy-ds/hive-scale) - Development of a hive scale and associated data warehouse with dashboard application to support data-driven decision making in beekeeping.
   
 [comment]: <> ([Analysis of Flyball dog sport data] - Analysing the annual results of a flyball-type dog sports team and making recommendations to improve performance.)
