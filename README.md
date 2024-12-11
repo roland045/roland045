@@ -17,13 +17,14 @@ I extract insights from data to help people to make better and data driven decis
 ## ⭐ Projects
 
 [comment]: <> (- View my portfolio projects on my website.)
-- View my coding projects [on Github](https://github.com/rolandnagy-ds?tab=repositories).
+- View my coding projects [on Github](https://github.com/roland045?tab=repositories).
 
 ### 📌 Favorite Projects
 
-- [Analysis on Flyball dog competition's data](https://github.com/rolandnagy-ds/flyball_race_analysis) - Exploratory data analysis (EDA) and team composition optimization with ML to improve the results of a competition team.
-- *(Still in progress)* [Road quality measurement with ML approach](https://github.com/rolandnagy-ds/Road-quality-analysis-Unsupervised-learning) - Development a road quality measurement and classification system help with road reconstruction.
-- [Hive scale](https://github.com/rolandnagy-ds/hive-scale) - Development of a hive scale and associated data warehouse with dashboard application to support data-driven decision making in beekeeping.
+- [Analysis of a hotel management company database](https://github.com/roland045/morgens-hotel-data-analysis) - Exploratory data analysis (EDA) on Marketing campaigns, Revenue & Yield management and User behaviour for find useful insights and improve company profitability.
+- [Analysis on Flyball dog competition's data](https://github.com/roland045/flyball_race_analysis) - Exploratory data analysis (EDA) and team composition optimization with ML to improve the results of a competition team.
+- *(Still in progress)* [Road quality measurement with ML approach](https://github.com/roland045/Road-quality-analysis-Unsupervised-learning) - Development a road quality measurement and classification system help with road reconstruction.
+- [Hive scale](https://github.com/roland045/hive-scale) - Development of a hive scale and associated data warehouse with dashboard application to support data-driven decision making in beekeeping.
   
 [comment]: <> ([Analysis of Flyball dog sport data] - Analysing the annual results of a flyball-type dog sports team and making recommendations to improve performance.)
 
