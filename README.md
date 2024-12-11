@@ -7,8 +7,8 @@
 
 I extract insights from data to help people to make better and data driven decisions.
 
-- 📊 I'm currently an Assistant Lecturer at University of Pannonia.
-- 💻 I work in education and I do research projects in data science related to measurement.
+- 📊 I'm currently a Data Scientist in R&D and Assistant Lecturer at University of Pannonia.
+- 💻 I work in education and I do research projects in data science in cooperation with industry partners.
 - 🛣️ I'm also a PhD candidate. My thesis is related to the development of a machine learning based road quality measurement system.
 - 📐 My degree is in mechatronics engineering and informatics.
  
