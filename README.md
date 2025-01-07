@@ -40,14 +40,6 @@ I extract insights from data to help people to make better and data driven decis
 
 &nbsp;
 
-## 📝 What I'm currently learning
-
-- Enhancing my skills in the field of Supervised and Unsupervised Machine learning 
-- Web scraping with Python
-- Geospatial data analysis techniques
-
-&nbsp;
-
 ## 🔗 Connect with me
 
 
