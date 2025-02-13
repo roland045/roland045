@@ -51,20 +51,11 @@ I extract insights from data to help people to make better and data driven decis
 
 &nbsp;
 
-## 📜 Certifications
+## 📜 Studies - University degrees
 
-📚 **Studies and schools**
-
-- **University degrees**
-    - PhD. in topic of Data Science and Engineering, *University of Pannonia, Hungary* - currently
-    - MSc. in Mechatronic Engineering, *Széchenyi István University, Hungary*
-    - BSc. in Mechatronic Engineering, *University of Pannonia, Hungary*
-
-- **Courses**
-    - [Python for Machine Learning & Data Science Masterclass, *Udemy*](https://www.udemy.com/certificate/UC-2f3023b8-49be-4030-b411-af98105a5110/)
-    - [SQL for Data Science, *Coursera*](https://www.coursera.org/account/accomplishments/verify/SER7DRUW92LP)
-    - [Google Data Analytics Professional Certificate, *Coursera*](https://www.credly.com/badges/d264d68b-a0b5-4d09-b418-7b95309d1dbd/linked_in_profile)
-
+- PhD. in topic of Data Science and Engineering, *University of Pannonia, Hungary* - currently
+- MSc. in Mechatronic Engineering, *Széchenyi István University, Hungary*
+- BSc. in Mechatronic Engineering, *University of Pannonia, Hungary*
 
 
 
