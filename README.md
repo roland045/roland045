@@ -1,16 +1,16 @@
 [comment]: <> (build with: https://readme.so/editor markdown editor)
 
 
-👋 Hi, I’m Roland, a data scientist from 🇭🇺 Hungary.
+👋 Hi, I’m Roland, a data scientist from 🇭🇺 Hungary, living in 🇩🇰 Denmark.
 
 ## 👨‍💻 About Me
 
 I extract insights from data to help people to make better and data driven decisions.
 
-- 📊 I'm currently a Data Scientist in R&D and Assistant Lecturer at University of Pannonia.
-- 💻 I work in education and I do research projects in data science in cooperation with industry partners.
-- 🛣️ I'm also a PhD candidate. My thesis is related to the development of a machine learning based road quality measurement system.
-- 📐 My degree is in mechatronics engineering and informatics.
+- 📊 I'm currently a Data Scientist at Mosaic Ie.
+- 💻 I work on data science-related projects with various scopes, but mainly do data analysis and machine learning models for companies in the private sector.
+- 🛣️ I also have a PhD in the field of data science. My thesis is related to the development of a machine learning based road quality measurement system.
+- 📐 My base degree is in mechatronics engineering and informatics.
  
 &nbsp;
 
@@ -53,7 +53,7 @@ I extract insights from data to help people to make better and data driven decis
 
 ## 📜 Studies - University degrees
 
-- PhD. in topic of Data Science and Engineering, *University of Pannonia, Hungary* - currently
+- PhD. in topic of Data Science and Engineering, *University of Pannonia, Hungary*
 - MSc. in Mechatronic Engineering, *Széchenyi István University, Hungary*
 - BSc. in Mechatronic Engineering, *University of Pannonia, Hungary*
 
