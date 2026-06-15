@@ -21,6 +21,7 @@ I extract insights from data to help people to make better and data driven decis
 
 ### 📌 Favorite Projects
 
+- [Danish-learning tool through text analysis](https://github.com/roland045/borgen-danish-text-analysis) - Data analysis on the Borgen series's script book, to get to know the most common words and patterns that exist in Danish, which can help in learning the language as well.
 - [Analysis of a hotel management company database](https://github.com/roland045/morgens-hotel-data-analysis) - Exploratory data analysis (EDA) on Marketing campaigns, Revenue & Yield management and User behaviour for find useful insights and improve company profitability.
 - [Analysis on Flyball dog competition's data](https://github.com/roland045/flyball_race_analysis) - Exploratory data analysis (EDA) and team composition optimization with ML to improve the results of a competition team.
 - *(Still in progress)* [Road quality measurement with ML approach](https://github.com/roland045/Road-quality-analysis-Unsupervised-learning) - Development a road quality measurement and classification system help with road reconstruction.
